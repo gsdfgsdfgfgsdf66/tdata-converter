@@ -6,8 +6,8 @@
 <!-- [![Build Status](https://travis-ci.org/YOUR-USERNAME/tdata-converter.svg?branch=main)](https://travis-ci.org/YOUR-USERNAME/tdata-converter) -->
 <!-- [![PyPI version](https://badge.fury.io/py/tdata-converter.svg)](https://badge.fury.io/py/tdata-converter) -->
 
-[![English](https://img.shields.io/badge/English-red.svg)](https://github.com/gsdfgsdfgfgsdf66/tdata-converter/blob/main/README.md)
 [![Russian](https://img.shields.io/badge/Russian-red.svg)](https://github.com/gsdfgsdfgfgsdf66/tdata-converter/blob/main/ru_README.md)
+[![English](https://img.shields.io/badge/English-red.svg)](https://github.com/gsdfgsdfgfgsdf66/tdata-converter/blob/main/README.md)
 
 A simple utility for converting Telegram Desktop sessions (`tdata`) into session formats compatible with the **Telethon** and **Pyrogram** libraries (`.session`).
 
